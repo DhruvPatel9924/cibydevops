@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          {process.env.REACT_APP_WELCOME_TEXT || "aaje chhe amre IBM ni EXAM"} - By
+          {process.env.REACT_APP_WELCOME_TEXT || "ibm na sqlaaje chhe amre IBM ni EXAM"} - By
           DevOps Pro
         </p>
         <a
