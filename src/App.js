@@ -36,10 +36,9 @@ function App() {
             type="number"
             value={num2}
             onChange={(e) => setNum2(e.target.value)}
-            placeholder="Here's a paragraph you can add about India:
-
-"India, a land of diverse cultures, languages, and traditions, is the world's largest democracy and home to over 1.4 billion people. Known for its rich history that spans thousands of years, India has made significant contributions to fields such as mathematics, science, literature, and spirituality. The country boasts a vibrant economy and is a hub for technology, agriculture, and industry. From the snow-capped peaks of the Himalayas to the sandy shores of Goa, India's geography is as varied as its people, making it one of the most unique and fascinating countries in the world.""
+            placeholder="Enter second number"
           />
+          <h1>git push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin maingit push origin main</h1>
           <button onClick={handleSum}>Calculate</button>
           {sum !== null && <h2>Result: {sum}</h2>}
 
